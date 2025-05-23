@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+databases[sqlite]
+bcrypt
+python-jose[cryptography]
+pydantic
